@@ -1,5 +1,7 @@
 package main
 
+// Something
+
 import (
 	"fmt"
 )
